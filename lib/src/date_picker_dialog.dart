@@ -5,13 +5,13 @@
 import 'dart:math' as math;
 
 import 'package:flutter/material.dart';
-import 'package:persian_datetime_picker/src/date/shamsi_date.dart';
+import 'package:afghani_datetime_picker/src/date/shamsi_date.dart';
 
-import 'pcalendar_date_picker.dart';
-import 'pdate_picker_common.dart';
-import 'pdate_picker_header.dart';
-import 'pdate_utils.dart' as utils;
-import 'pinput_date_picker.dart';
+import 'calendar_date_picker.dart';
+import 'date_picker_common.dart';
+import 'date_picker_header.dart';
+import 'date_utils.dart' as utils;
+import 'input_date_picker.dart';
 
 const Size _calendarPortraitDialogSize = Size(330.0, 518.0);
 const Size _calendarLandscapeDialogSize = Size(496.0, 346.0);

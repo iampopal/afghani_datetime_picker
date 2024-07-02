@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:persian_datetime_picker/src/date/shamsi_date.dart';
+import 'package:afghani_datetime_picker/src/date/shamsi_date.dart';
 
-import 'pdate_picker_common.dart';
+import 'date_picker_common.dart';
 
 /// Returns a [Jalali] with just the date of the original, but no time set.
 Jalali dateOnly(Jalali date) {

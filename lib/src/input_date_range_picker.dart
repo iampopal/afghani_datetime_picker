@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter/widgets.dart';
-import 'package:persian_datetime_picker/src/date/shamsi_date.dart';
+import 'package:afghani_datetime_picker/src/date/shamsi_date.dart';
 
-import 'pdate_utils.dart' as utils;
+import 'date_utils.dart' as utils;
 
 /// Provides a pair of text fields that allow the user to enter the start and
 /// end dates that represent a range of dates.

@@ -146,13 +146,13 @@
       "languageVersion": "3.3"
     },
     {
-      "name": "persian_datetime_picker",
+      "name": "afghani_datetime_picker",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.1"
     }
   ],
-  "generated": "2024-07-02T11:28:48.449312Z",
+  "generated": "2024-07-02T11:51:13.465998Z",
   "generator": "pub",
   "generatorVersion": "3.4.3",
   "flutterRoot": "file:///Users/abdurahmanpopal/development/flutter",

@@ -4,13 +4,13 @@ import 'package:flutter/material.dart';
 // import 'package:flutter/rendering.dart';
 // import 'package:flutter/services.dart';
 // import 'package:flutter/widgets.dart';
-import 'package:persian_datetime_picker/src/date/shamsi_date.dart';
+import 'package:afghani_datetime_picker/src/date/shamsi_date.dart';
 
-import 'pcalendar_date_range_picker.dart';
-import 'pdate_picker_common.dart';
-import 'pdate_picker_header.dart';
-import 'pdate_utils.dart' as utils;
-import 'pinput_date_range_picker.dart';
+import 'calendar_date_range_picker.dart';
+import 'date_picker_common.dart';
+import 'date_picker_header.dart';
+import 'date_utils.dart' as utils;
+import 'input_date_range_picker.dart';
 
 const Size _inputPortraitDialogSize = Size(330.0, 270.0);
 const Size _inputLandscapeDialogSize = Size(496, 164.0);

@@ -1,7 +1,6 @@
-
 library date;
 
-import 'package:persian_datetime_picker/src/date/shamsi_date.dart';
+import 'package:afghani_datetime_picker/afghani_datetime_picker.dart';
 
 /// Super interface of Jalali and Georgian classes
 abstract class ExDate {

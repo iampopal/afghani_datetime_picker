@@ -4,11 +4,11 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:persian_datetime_picker/src/date/shamsi_date.dart';
+import 'package:afghani_datetime_picker/src/date/shamsi_date.dart';
 
-import 'pdate_picker_common.dart';
-import 'pdate_utils.dart' as utils;
-import 'pdate_utils.dart';
+import 'date_picker_common.dart';
+import 'date_utils.dart' as utils;
+import 'date_utils.dart';
 
 const double _inputPortraitHeight = 98.0;
 const double _inputLandscapeHeight = 108.0;

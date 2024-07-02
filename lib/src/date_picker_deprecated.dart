@@ -8,10 +8,10 @@ import 'dart:math' as math;
 import 'package:flutter/gestures.dart' show DragStartBehavior;
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart'; 
-import 'package:persian_datetime_picker/src/date/shamsi_date.dart';
+import 'package:afghani_datetime_picker/src/date/shamsi_date.dart';
 
-import 'pdate_picker_common.dart';
-import 'pdate_utils.dart';
+import 'date_picker_common.dart';
+import 'date_utils.dart';
 
 const Duration _kMonthScrollDuration = Duration(milliseconds: 200);
 const double _kDayPickerRowHeight = 42.0;

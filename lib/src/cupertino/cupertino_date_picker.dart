@@ -1,9 +1,9 @@
 import 'dart:math' as math;
 
+import 'package:afghani_datetime_picker/afghani_datetime_picker.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/scheduler.dart';
-import 'package:persian_datetime_picker/persian_datetime_picker.dart';
-import 'package:persian_datetime_picker/src/cupertino/strings.dart';
+import 'package:afghani_datetime_picker/src/cupertino/strings.dart';
 
 import 'picker.dart';
 

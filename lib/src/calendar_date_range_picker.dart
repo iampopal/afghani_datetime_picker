@@ -5,10 +5,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/services.dart';
 // import 'package:flutter/widgets.dart';
-import 'package:persian_datetime_picker/src/date/shamsi_date.dart';
+import 'package:afghani_datetime_picker/src/date/shamsi_date.dart';
 
-import 'pdate_utils.dart' as utils;
-import 'pdate_utils.dart';
+import 'date_utils.dart' as utils;
+import 'date_utils.dart';
 
 const Duration _monthScrollDuration = Duration(milliseconds: 200);
 
