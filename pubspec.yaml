@@ -1,7 +1,7 @@
 name: afghani_datetime_picker
 description: A afghani (dari, hijri) datetime picker for flutter, inspired by material datetime picker.
 version: 1.0.0
-homepage: https://github.com/iampopal/afghani-datetime-picker
+homepage: https://github.com/iampopal/afghani_datetime_picker
 
 environment:
   sdk: ">=3.1.1 <4.0.0"
