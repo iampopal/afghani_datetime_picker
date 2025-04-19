@@ -394,7 +394,7 @@ class _DatePickerDialogState extends State<_DatePickerDialog> {
     );
 
     final Size dialogSize = _dialogSize(context)! * textScaleFactor;
-    final DialogTheme dialogTheme = Theme.of(context).dialogTheme;
+    final dialogTheme = Theme.of(context).dialogTheme;
     return Dialog(
       child: Directionality(
         textDirection: TextDirection.rtl,
