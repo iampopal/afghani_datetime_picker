@@ -374,7 +374,7 @@ class _DateRangePickerDialogState extends State<_DateRangePickerDialog> {
           cancelText: widget.cancelText ?? "لغو",
           helpText: widget.helpText ?? "انتخاب تاریخ",
         );
-        final DialogTheme dialogTheme = Theme.of(context).dialogTheme;
+        final dialogTheme = Theme.of(context).dialogTheme;
         size = orientation == Orientation.portrait
             ? _inputPortraitDialogSize
             : _inputLandscapeDialogSize;
